@@ -1,2 +1,2 @@
-The first file i added to my project
+The first file i added to my project - it comes before all other files
 
